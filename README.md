@@ -24,7 +24,7 @@ Dylan : température de l'air à Paris, Open-Météo Historical Weather API, CC 
 
 Alfred : prix du bitcoin en USDT, data.binance.vision, CC BY-NC-SA 4.0
 
-Bahr :
+Bahr : Consommation énergétique en MW en moyenne par foyer français (données d'historique énergie) , OPENDATA RÉSEAUX-ÉNERGIES, données éCO2mix nationales (RTE - Réseau de Transport d'Électricité), Licence Ouverte v2.0 Etalab
 
 Tarik :
 
@@ -40,7 +40,7 @@ Dylan : 3.14.7
 
 Tom : 3.12
 
-Bahr :
+Bahr : 3.14.7
 
 Tarik : 
 
